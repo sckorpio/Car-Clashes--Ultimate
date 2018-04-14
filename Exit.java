@@ -24,7 +24,7 @@ public class Exit
                           "                                               Spring Fields College.."+"\n"+
                           "                                               Moradabad, India..."+"\n"+"\n"+"\n"+"\n"+
                           
-                          " Presented by KriXxzzZ------------"+"\n"+
+                          " Presented by ScKorpio------------"+"\n"+
 
                           " Thank u......................"+"\n"+
                           "_____________________________________________________________________________");
