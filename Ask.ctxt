@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Ask()
+comment1.params=
+comment1.target=void\ AskPlayers()
+comment2.params=
+comment2.target=void\ AskLapsLength()
+comment3.params=
+comment3.target=void\ AskSingle()
+comment4.params=
+comment4.target=void\ AskDouble()
+comment5.params=
+comment5.target=void\ Start()
+numComments=6

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=x\ y\ p
+comment0.target=Play1(java.lang.String,\ java.lang.String,\ int)
+comment1.params=
+comment1.target=int\ Calculate1()
+comment2.params=
+comment2.target=int\ Calculate2()
+comment3.params=
+comment3.target=void\ Player()
+comment4.params=
+comment4.target=void\ BlueJ()
+comment5.params=
+comment5.target=void\ Start()
+numComments=6
