@@ -17,8 +17,8 @@
 # AUTHORS: Sckorpio
 
 # USER INSTRUCTIONS:
-                  --Download the project
+                  --Download the project
                   --Build the project in Bluej IDE
-                  --Run the main file object
+                  --Run the main (RUN) file object
 
 
