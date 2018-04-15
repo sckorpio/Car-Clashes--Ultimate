@@ -1,4 +1,4 @@
-https://github.com/sckorpio/Car-Clashes--Ultimate/blob/master/cc.png
+![](cc.png)
 
 # PROJECT TITLE: Car Clashes -Ultimate
 
